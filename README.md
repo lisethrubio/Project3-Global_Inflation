@@ -13,7 +13,7 @@ Inflation, which measures how quickly prices for goods and services rise, ultima
 Please see attached word document (docx)
 # References for the data sources: 
 https://www.kaggle.com/datasets/statchaitya/country-to-continent
-https://www.kaggle.com/datasets/statchaitya/country-to-continent
+https://www.kaggle.com/datasets/belayethossainds/global-inflation-dataset-212-country-19702022 - Author: Belayet Hossain
 # Tasks by Team Member:
 Love Lorissaint & Kim Aissa Data organization
 Powerpoint creation- Liseth Rubio
