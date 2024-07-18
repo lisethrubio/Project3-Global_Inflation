@@ -15,7 +15,7 @@ Please see attached word document (docx)
 https://www.kaggle.com/datasets/statchaitya/country-to-continent
 https://www.kaggle.com/datasets/belayethossainds/global-inflation-dataset-212-country-19702022 - Author: Belayet Hossain
 # Tasks by Team Member:
-Love Lorissaint & Kim Aissa Data organization
-Powerpoint creation- Liseth Rubio
-SQL- Derilee Walters & Sacide Belair
+1-Love Lorissaint & Kim Aissa Data organization;
+2-Powerpoint creation- Liseth Rubio;
+3-SQL- Derilee Walters & Sacide Belair.
 
