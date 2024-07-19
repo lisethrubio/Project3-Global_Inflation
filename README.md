@@ -3,7 +3,7 @@
 # Team Members:
 - Derilee Walters
 - Sacide Belair
-- Love Lorissaint
+- Love Lourdie Lorissaint
 - Phuong (Kim) Aissa
 - Liseth Rubio 
 
