@@ -12,19 +12,30 @@ CREATE TABLE "countries" (
 
 
 CREATE TABLE "inflation" (
-	"Country Code" VARCHAR NOT NULL,
-	"2002" FLOAT NOT NULL,
-
-	
-     PRIMARY KEY ("Country Code"),
-	 FOREIGN KEY ("Country Code") REFERENCES countries("Country Code")
-	
-	
-	
-	
-);
-
-	
+    "Country Code" VARCHAR NOT NULL,
+    "2002" FLOAT NOT NULL,
+    "2003" FLOAT NOT NULL,
+    "2004" FLOAT NOT NULL,
+    "2005" FLOAT NOT NULL,
+    "2006" FLOAT NOT NULL,
+    "2007" FLOAT NOT NULL,
+    "2008" FLOAT NOT NULL,
+    "2009" FLOAT NOT NULL,
+    "2010" FLOAT NOT NULL,
+    "2011" FLOAT NOT NULL,
+    "2012" FLOAT NOT NULL,
+    "2013" FLOAT NOT NULL,
+    "2014" FLOAT NOT NULL,
+    "2015" FLOAT NOT NULL,
+    "2016" FLOAT NOT NULL,
+    "2017" FLOAT NOT NULL,
+    "2018" FLOAT NOT NULL,
+    "2019" FLOAT NOT NULL,
+    "2020" FLOAT NOT NULL,
+    "2021" FLOAT NOT NULL,
+    "2022" FLOAT NOT NULL,
+    FOREIGN KEY ("Country Code") REFERENCES countries("Country Code")
+);	
 	
 	
 	
