@@ -1742,27 +1742,3 @@ WHERE
 
 
 
----Question #3:	Are there any outliers in the dataset of global inflation rates?
-
----Question #4:	What is the distribution shape of global inflation rates (e.g., normal, skewed)?
-
----Question #5: How has the global inflation rate changed over the year 2002-2022?
-
----Question #6: How did the COVID-19 pandemic change inflation rates around the world
-
-
----TIME SERIES ANALYSIS:
----Question #9: How has the global inflation rate changed over the year 2002-2022? 
-
----Question #10: How did the COVID-19 pandemic change inflation rates around the world, and how did these changes differ between different regions and industries?
----Question #11: What factors (e.g., commodity prices, exchange rates, political stability) are significant predictors of inflation rates?
----Question #12: Which countries are predicted to have the highest and lowest inflation rates in the upcoming decade?
-
-
----COMPARING TABLES:
-
----Question #2:	What sectors are most vulnerable to inflationary pressures globally? THIS CAN BE ANSWER AT THE END AFTER COMPARING TABLES**
----Question #3:	What are the primary factors driving inflation in various regions?
-
----Question #8:	What are the predicted inflation rates for different regions (e.g., Asia, Europe, Africa) over the next few years? THIS CAN BE ASNWERED WITH THE NEW LIBRARY**
----Question #12: Which countries are predicted to have the highest and lowest inflation rates in the upcoming decade? NEW LIBRARY**
