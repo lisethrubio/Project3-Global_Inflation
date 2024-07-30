@@ -8,11 +8,11 @@
 - Liseth Rubio 
 
 ## Tasks by Team Member:
-- Jupyter Notebook Data Cleaning: Liseth & Kim Aissa 
-- ERD & SQL Schemata: Derilee
-- Jupyter Notebook Data Visualization: Love
-- SQL Queries: Liseth
-- Research Data: Sacide
+- Jupyter Notebook Data Cleaning: Liseth Rubio & Kim Aissa 
+- ERD & SQL Schemata: Derilee Walters
+- Jupyter Notebook Data Visualization: Love Lorissaint
+- SQL Queries: Liseth Rubio
+- Research Data: Sacide Belair
 - PowerPoint Presentation: Everyone 
 
 
